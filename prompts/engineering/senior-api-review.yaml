@@ -1,1 +1,18 @@
+name: Senior API Review
+version: 1.0.0
+role: Senior Backend Engineer
 
+inputs:
+  code: string
+
+prompt: |
+  You are a senior backend engineer.
+  Review the following API code.
+  Focus on:
+  - security
+  - data consistency
+  - edge cases
+  - scalability
+
+  Code:
+  {{code}}
