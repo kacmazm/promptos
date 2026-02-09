@@ -1,1 +1,1 @@
-# promptos
+# promptos readme
